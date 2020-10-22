@@ -3,14 +3,17 @@
 ## I'm a FrontEnd Developer
 
 - 👨‍💻 I’m currently working on personal projects!
-- 👨‍🎓 I'm learning everything 24/7😀
+- 👨‍🎓 I'm learning everything 24/7
 - 👯 I’m looking to collaborate
+- ⚔️ Doing hard in css battles
 
 ### Connect with me:
 
 [<img align="left" alt="ericguter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ericguter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="ericguter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ericgut | codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="ericguter | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ericgut | cssbattle" width="22px" src="https://cssbattle.dev/images/logo-square.png" />][cssbattle]
+
 
 </br>
 
@@ -37,3 +40,4 @@
 [instagram]: https://instagram.com/ericguter
 [codepen]: https://codepen.io/ericgut
 [linkedin]: https://www.linkedin.com/in/ericguter/
+[cssbattle]:https://cssbattle.dev/player/ericgut
