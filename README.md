@@ -3,7 +3,7 @@
 ## I'm a Web Developer
 
 - 🔭 I’m currently working on personal projects!
-- 🌱 I’m currently learning everything 
+- 🌱 I'm learning everything 
 - 👯 I’m looking to collaborate
 
 ### Connect with me:
