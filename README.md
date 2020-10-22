@@ -9,6 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ericguter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ericguter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 </br>
 
@@ -33,3 +34,4 @@
 </details>
 
 [instagram]: https://instagram.com/ericguter
+[codepen]: https://codepen.io/ericgut
