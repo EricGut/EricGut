@@ -3,7 +3,6 @@
 ## I'm a FrontEnd Developer
 
 - 👨‍💻 I’m currently working on personal projects!
-- 👨‍🎓 Trying to become Fullstack
 - 👯 I’m looking to collaborate
 - ⚔️ Doing hard in css battles
 
