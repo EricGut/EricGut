@@ -10,7 +10,6 @@
 
 [<img align="left" alt="ericguter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ericgut | codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="ericguter | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ericgut | cssbattle" width="22px" src="https://cssbattle.dev/images/logo-square.png" />][cssbattle]
 
 
