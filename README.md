@@ -20,23 +20,15 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png"/>
-<img align="left" alt="GraphQl" width="26px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"/>
+<img align="left" alt="NextJs" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"/>
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
 </br>
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="EricGut's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EricGut&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://instagram.com/ericguter
 [codepen]: https://codepen.io/ericgut
-[linkedin]: https://www.linkedin.com/in/ericguter/
 [cssbattle]:https://cssbattle.dev/player/ericgut
