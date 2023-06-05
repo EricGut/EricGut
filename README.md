@@ -20,7 +20,8 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" />
+<img align="left" alt="Tailwind" width="26px" src="![image](https://github.com/EricGut/EricGut/assets/26567556/aa545f8e-f3e6-43ab-902a-7d323725f4d7)
+" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="NextJs" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"/>
